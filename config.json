@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordervync",
+        "uuid": 9069840,
+        "checksum": "vulkgl"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
